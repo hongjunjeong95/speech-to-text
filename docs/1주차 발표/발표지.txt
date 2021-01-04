@@ -1,0 +1,5 @@
+lazor lights를 이용해서 diaphragm을 진동시켜서 resulting electrical signals.
+공격자는 commands를 encode해서 원격에서 창문을 통해서 diaphragrm을 진동시킬 수 있다.
+이 공격은 110M 거리에서도 공격이 가능하다.
+브루트 포스 공격을 통해서 문을 열 수도 있다.
+이 문제를 해결하려면 microphone을 redesign을 해야 한다.
